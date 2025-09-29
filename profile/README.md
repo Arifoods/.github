@@ -73,6 +73,7 @@ If you want to:
 …we’d love to hear from you.  
 
 Website: [arifoods.gr](https://arifoods.gr)  
+Linkedin : [ARI Foods](https://www.linkedin.com/company/arifoodsgr/posts/?feedView=all)
 Contact: welcome@arifoods.gr
 
 ---
