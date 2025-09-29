@@ -1,15 +1,15 @@
-# 🌿 Arifoods SA – Where Mediterranean flavors meet coding excellence
+# 🌿 ARI Foods SA – Where Mediterranean flavors meet coding excellence
 
-Welcome to **Arifoods SA**, the GitHub home for our internal development team.  
+Welcome to **ARI Foods SA**, the GitHub home for our internal development team.  
 Our mission is to empower employees with tools, automations, and AI-driven solutions that make work smarter and faster.  
 
-Just like [Arifoods SA](https://arifoods.gr) crafts premium antipasti with Greek flair and global reach, we craft software with precision, quality, and a focus on usability.
+Just like [ARI Foods SA](https://arifoods.gr) crafts premium antipasti with Greek flair and global reach, we craft software with precision, quality, and a focus on usability.
 
 ---
 
 ## 🫒 Our Mission
 
-At Arifoods SA, we believe in:
+At ARI Foods SA, we believe in:
 
 - **Craftsmanship** — From food to software, quality starts with solid foundations.  
 - **Local roots, global reach** — Our code, like our products, is made in Greece with impact that scales worldwide.  
@@ -63,7 +63,7 @@ We adhere to:
 
 ## 🤝 Join Us
 
-At **Arifoods SA**, we’re expanding not only our food products but also our digital capabilities.  
+At **ARI Foods SA**, we’re expanding not only our food products but also our digital capabilities.  
 If you want to:
 
 - Help us improve internal tools  
@@ -80,13 +80,13 @@ If you want to:
 
 ## 📜 License & Credits
 
-All projects in this organization are the property of **Arifoods SA** and licensed accordingly (MIT / Apache-2.0 unless noted).  
+All projects in this organization are the property of **ARI Foods SA** and licensed accordingly (MIT / Apache-2.0 unless noted).  
 
-Inspired by our company’s heritage and commitment to quality: [Arifoods SA](https://arifoods.gr).  
+Inspired by our company’s heritage and commitment to quality 
 
 ---
 
 We see code as flavor, architecture as recipe, and teamwork as the table.  
 Let’s build amazing things together 
 
-— The Arifoods SA Team  
+— The ARI Foods SA Team  
