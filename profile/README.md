@@ -1,4 +1,4 @@
-# 🌿 Arifoods SA – Where Mediterranean flavors meet open source
+# 🌿 Arifoods SA – Where Mediterranean flavors meet corporate code
 
 Welcome to **Arifoods SA**, the GitHub home for our internal development team.  
 Our mission is to empower employees with tools, automations, and AI-driven solutions that make work smarter and faster.  
@@ -7,7 +7,7 @@ Just like [Arifoods SA](https://arifoods.gr) crafts premium antipasti with Greek
 
 ---
 
-## 🍇 Our Mission
+## 🫒 Our Mission
 
 At Arifoods SA, we believe in:
 
@@ -46,7 +46,7 @@ For **employees**:
 
 For **external contributors**:  
 - Most repositories are private.  
-- We welcome ideas, code suggestions, and collaborations — reach out if you’d like to contribute.  
+- We welcome collaboration ideas — if you’d like to contribute, please reach out.  
 
 ---
 
@@ -73,7 +73,8 @@ If you want to:
 …we’d love to hear from you.  
 
 Website: [arifoods.gr](https://arifoods.gr)  
- 
+Contact: welcome@arifoods.gr
+
 ---
 
 ## 📜 License & Credits
@@ -84,7 +85,7 @@ Inspired by our company’s heritage and commitment to quality: [Arifoods SA](ht
 
 ---
 
-We see code as flavor, architecture as recipe, and community as table.  
-Let’s cook amazing things together 
+We see code as flavor, architecture as recipe, and teamwork as the table.  
+Let’s build amazing things together 
 
 — The Arifoods SA Team  
