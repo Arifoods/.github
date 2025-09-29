@@ -1,48 +1,52 @@
-# 🌿 Arifoods SA – Where Mediterranean flavors meet open source
+# 🌿 Arifoods SA – Where Mediterranean flavors meet corporate code
 
-Welcome to **Arifoods SA**, the GitHub home of creators, maintainers, and visionaries who believe in clean code, taste, and authenticity. Just like [Arifoods SA](https://arifoods.gr) crafts premium antipasti with Greek flair and global reach, we build projects with precision, quality, and community in mind.
+Welcome to **Arifoods SA**, the GitHub home for our internal development team.  
+Our mission is to empower employees with tools, automations, and AI-driven solutions that make work smarter and faster.  
+
+Just like [Arifoods SA](https://arifoods.gr) crafts premium antipasti with Greek flair and global reach, we craft software with precision, quality, and a focus on usability.
 
 ---
 
-## 🍇 Our Mission
+## 🫒 Our Mission
 
-We believe:
+At Arifoods SA, we believe in:
 
-- In _craftsmanship_ — same way Arifoods picks top-tier ingredients, we pick robust tools, solid architecture, and maintainable design.  
-- In _local roots & global reach_ — from Greek inspiration to serving 29 countries, Arifoods marries heritage and expansion. We aim for that balance in our projects: local context, global impact. ([arifoods.gr](https://arifoods.gr))  
-- In _sustainability & quality_ — Arifoods’ focus on preserving nutritional value and respecting safety protocols echoes our dedication to clean code, security, and developer ergonomics. ([arifoods.gr](https://arifoods.gr))  
+- **Craftsmanship** — From food to software, quality starts with solid foundations.  
+- **Local roots, global reach** — Our code, like our products, is made in Greece with impact that scales worldwide.  
+- **Sustainability & responsibility** — Respect for resources, processes, and people, whether in nutrition or technology.  
 
 ---
 
 ## 📦 What You’ll Find Here
 
-This org houses:
-
-- **Libraries & frameworks** — reusable building blocks that any project can integrate  
-- **Tools & pipelines** — CI/CD setups, quality checkers, helper scripts  
-- **Showcase apps** — real-world demos to illustrate architecture & best practices  
-- **Docs & templates** — from README templates to contribution guides  
+- **Internal tools** that optimize workflows  
+- **AI-powered agents** for automation and decision support  
+- **Productivity apps** to simplify daily operations  
+- **Reusable code libraries** for consistent development practices  
 
 ---
 
 ## 🌍 Featured Projects
 
 | Project | Description | Status |
-|--------|-------------|--------|
-| **project-alpha** | A microservice starter kit with auth, logging, monitoring | Stable / maintained |
-| **design-system** | UI components with theming & accessibility baked in | Beta |
-| **infra-scripts** | Infrastructure-as-Code templates for cloud provisioning | Experimental |
-
-*(You can insert badges here for build status, coverage, license, etc.)*
+|---------|-------------|--------|
+| **AI Invoice Agent** | Automates invoice extraction and processing using AI | 🚀 In use |
+| **PDF E-Signer** | Secure and seamless PDF signing solution | ✅ Stable |
+| **Alert Notifier Agent** | Monitors alerts (e.g. fridge temperature) and escalates via Teams | ⚡ Active |
 
 ---
 
 ## 🚀 Getting Started
 
-1. **Fork or clone** a repository you like  
-2. Read the `CONTRIBUTING.md` or `README.md` in that repo  
-3. Run setup commands (e.g. `npm install`, `pip install -r requirements.txt`)  
-4. Build, test, submit PRs — we review with feedback and love  
+For **employees**:  
+1. Request repo access via IT.  
+2. Clone the relevant repository.  
+3. Follow the setup instructions in each project’s `README.md`.  
+4. Contribute improvements through pull requests.  
+
+For **external contributors**:  
+- Most repositories are private.  
+- We welcome collaboration ideas — if you’d like to contribute, please reach out.  
 
 ---
 
@@ -50,35 +54,38 @@ This org houses:
 
 We adhere to:
 
-- **Code of Conduct** — Respect, clarity, collaboration  
-- **Pull Request Etiquette** — Small, focused PRs with descriptive titles  
-- **Issue Templates & Labels** — Helps us triage quicker  
-- **Tests & Documentation** — Every feature needs coverage + explanation  
+- **Respect & collaboration** — Healthy code reviews, constructive feedback.  
+- **Small PRs, big impact** — Keep changes focused.  
+- **Tests & docs first** — Stability and clarity matter.  
+- **Security awareness** — Protect data, code, and users at all times.  
 
 ---
 
 ## 🤝 Join Us
 
-We’re growing — just like Arifoods’ product range expanding across Europe and the Americas. ([arifoods.gr](https://arifoods.gr)) If you want to:
+At **Arifoods SA**, we’re expanding not only our food products but also our digital capabilities.  
+If you want to:
 
-- Contribute code or docs  
-- Suggest a project or idea  
-- Help with community, design, outreach  
+- Help us improve internal tools  
+- Share automation or AI ideas  
+- Contribute to efficiency and innovation  
 
-… you’re welcome here.
+…we’d love to hear from you.  
 
-Reach out: [email@arifoods.gr] | [Slack / Discord / Social links]
+Website: [arifoods.gr](https://arifoods.gr)  
+Contact: welcome@arifoods.gr
 
 ---
 
 ## 📜 License & Credits
 
-All projects in this org are under **Arifoods SA License (e.g. MIT / Apache-2.0)** unless noted otherwise.  
-Special shout-out to [Arifoods SA](https://arifoods.gr) for inspiring this aesthetic and tone.  
+All projects in this organization are the property of **Arifoods SA** and licensed accordingly (MIT / Apache-2.0 unless noted).  
+
+Inspired by our company’s heritage and commitment to quality: [Arifoods SA](https://arifoods.gr).  
 
 ---
 
-We see code as flavor, architecture as recipe, and community as table. Let’s cook amazing things together.  
-Etsi gamata — no multiverse reset needed.
+We see code as flavor, architecture as recipe, and teamwork as the table.  
+Let’s build amazing things together 
 
 — The Arifoods SA Team  
