@@ -1,4 +1,4 @@
-# 🌿 Arifoods SA – Where Mediterranean flavors meet corporate code
+# 🌿 Arifoods SA – Where Mediterranean flavors meet coding excellence
 
 Welcome to **Arifoods SA**, the GitHub home for our internal development team.  
 Our mission is to empower employees with tools, automations, and AI-driven solutions that make work smarter and faster.  
