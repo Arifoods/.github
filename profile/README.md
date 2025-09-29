@@ -74,11 +74,11 @@ Reach out: [email@arifoods.gr] | [Slack / Discord / Social links]
 ## 📜 License & Credits
 
 All projects in this org are under **Arifoods SA License (e.g. MIT / Apache-2.0)** unless noted otherwise.  
-Special shout-out to [Arifoods SA](https://arifoods.gr) for inspiring this aesthetic and tone.  
+ 
 
 ---
 
 We see code as flavor, architecture as recipe, and community as table. Let’s cook amazing things together.  
-Etsi gamata — no multiverse reset needed.
+
 
 — The Arifoods SA Team  
